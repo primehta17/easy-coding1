@@ -4,4 +4,4 @@ function swapchar(str){
    let first = str[0];
    return first+str+first;
 }
-console.log(swapchar(str))
+console.log(swapchar(str));
