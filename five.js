@@ -1,4 +1,4 @@
-// Replace every character in a given string with the character following it in the alphabet
+// Replace Each Character with Next Alphabet Letter
 
 let str ="JAVASCRIPT";
 
